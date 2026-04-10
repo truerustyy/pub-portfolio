@@ -1,2 +1,2 @@
-# pub-portfolio
-public encrypted version of portfolio
+# public statyscript secured portfolio
+served through github pages
